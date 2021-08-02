@@ -1,6 +1,7 @@
 ## The most basic implementation for generation of Random Numbers using IBM's Quantum Computers
-This code uses the Hadamard Gate's superposition principle to create random numbers
-```Python
+
+#This code uses the Hadamard Gate's superposition principle to create random numbers
+
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jul 30 14:41:44 2021
@@ -62,4 +63,4 @@ def Qriptos(account_key,qubits):
 account_key = "Your_IBM_Account_Token"
 
 print(Qriptos(account_key,5))
-```
+
