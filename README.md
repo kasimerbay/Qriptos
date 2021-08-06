@@ -10,4 +10,4 @@ My research notes on this topic [here](https://kasimerbay.github.io/Kuantum__Pro
 
 A little bit of implementation of Quantum Computing, Quantum Random Number Generator, [here](https://github.com/kasimerbay/Qriptos/blob/main/Quantum_RNG.py).
 
-[Here](https://github.com/kasimerbay/Qriptos/blob/main/Quantum_RNG.py) a new version with some fixes and improvement about seed configuration.
+[Here](https://github.com/kasimerbay/Qriptos/blob/main/Quantum_RNG.py) a new version of QRND with some fixes and improvement about seed configuration.
