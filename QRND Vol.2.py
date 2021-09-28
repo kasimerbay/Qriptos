@@ -73,7 +73,7 @@ def Qriptos(account_key,qubits,alt_sinir,ust_sinir):
 print("Fonksyonlar Yüklendi..")
 
 # Hesap anahtarının girilmesi
-account_key = "0eaa962ed2c44f8669c35fb1511c78180615806a78bc906f84581b76ea14cc92da55bfb27e61d055680b83bca121d15ab910bcafba1b175ca81ad16e89741dbd"
+account_key = "ACCOUNT_KEY"
 # Sayıyı almak istediğimiz aralığı belirliyoruz
 alt_sinir = 0
 ust_sinir = 100
